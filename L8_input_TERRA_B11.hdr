@@ -1,0 +1,15 @@
+ENVI
+description = {
+  ENVI File, Created [Tue May 20 10:24:45 2014]}
+samples = 1
+lines   = 2240
+bands   = 4
+header offset = 0
+file type = ENVI Standard
+data type = 5
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ L8 radiance, MODIS radiance, latitude, longitude}

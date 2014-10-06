@@ -1,0 +1,19 @@
+ENVI
+description = {
+  Convert Projection Result [Mon May 12 15:41:20 2014] [Mon May 12 15:41:20
+  2014]}
+samples = 569
+lines   = 497
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+map info = {GOES_DOY279_GVNP_SHORE, 1.0000, 1.0000, -702310.0971, 638310.1124, 2.5718000000e+003, 2.5718000000e+003, WGS-84, units=Meters}
+projection info = {15, 6378137.0, 30.912172, -116.236438, 0.0, 0.0, 705000.000000, WGS-84, GOES_DOY279_GVNP_SHORE, units=Meters}
+coordinate system string = {PROJCS["GOES_DOY279_GVNP_SHORE",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Vertical_Near_Side_Perspective"],PARAMETER["False_Easting",0.0],PARAMETER["False_Northing",0.0],PARAMETER["Longitude_Of_Center",-116.23643752],PARAMETER["Latitude_Of_Center",30.91217192],PARAMETER["Height",705000.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+band names = {
+ Reprojection (Georef (Band 1:[Memory1]):GOES_DOY279.img)}
