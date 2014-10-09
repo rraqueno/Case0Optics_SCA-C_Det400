@@ -6,4 +6,4 @@ MODIS.img L8.img L8.bll B11.csv :
 	./pre_process.bash
 
 clean:
-	rm ghost_weights.sli GOES_ghost_matrix.sli L8_ghost_matrix.sli
+	rm -f ghost_weights.sli GOES_ghost_matrix.sli L8_ghost_matrix.sli MODIS.img MODIS.img.hdr L8.img L8.hdr L8.bll B11.csv
